@@ -7,7 +7,7 @@ The Traffic Analyzer is a network packet capture and analysis tool built with Py
 ## Features
 
 - Capture network traffic from a specified network interface.
-- Filter packets by source IP, destination IP, or port.
+- Filter packets by IP, or port.
 - Display captured packets in a user-friendly table.
 - View detailed packet information in a separate window.
 - Save captured packets to a PCAP file.
@@ -48,7 +48,7 @@ The Traffic Analyzer is a network packet capture and analysis tool built with Py
     ```
 
 2. Enter the network interface you want to capture traffic from.
-3. Optionally, set filters for source IP, destination IP, or port.
+3. Optionally, set filters for IP, or port.
 4. Click "Start Capture" to begin capturing packets.
 5. View the captured packets in the table and double-click to see detailed information.
 6. Click "Stop Capture" when you are finished, and choose to save the capture to a file if desired.
